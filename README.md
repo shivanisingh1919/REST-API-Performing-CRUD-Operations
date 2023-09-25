@@ -1,5 +1,5 @@
 # REST-API-Performing-CRUD-Operations
-3 sets of API's performing CRUD operations
+ API's performing CRUD operations
 
 Technlogies Used : NodeJs ,MongoDB ,Express
 
